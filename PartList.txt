@@ -1,0 +1,23 @@
+Arduino Nano
+XY-BT-Mini  ->  https://nl.aliexpress.com/item/33024751119.html?spm=a2g0o.productlist.0.0.3ae824eaZ95bPh&algo_pvid=e7d9f331-36b9-46ac-8c4d-c60769df32dc&algo_expid=e7d9f331-36b9-46ac-8c4d-c60769df32dc-10&btsid=0b0a187915827311256655917e2999&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+IR 3 pin receiver
+U1 = MSGEQ7
+R1 = 200k
+R2 = 20k
+R3 = 20k
+R4 = 10K
+R5 = 10k
+R6 = 10k
+R7 = 10k
+C1 = 47uF 16v
+C2 = 47uF 16v
+C3 = 10nF
+C4 = 100nF
+C5 = 33pF
+Q1 = IRFZ44NPBF
+Q2 = IRFZ44NPBF
+Q3 = IRFZ44NPBF
+Q4 = IRFZ44NPBF
+P1 = 2 pin screw terminal  ->  https://nl.aliexpress.com/item/32867118953.html?spm=a2g0o.productlist.0.0.67a963c8SJlClL&algo_pvid=c4a89c95-7510-4cd3-848b-b2bd37064f5e&algo_expid=c4a89c95-7510-4cd3-848b-b2bd37064f5e-20&btsid=0b0a187915827311934506756e2999&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+P2 = 2 pin screw terminal
+P3 = 3 pin screw terminal
